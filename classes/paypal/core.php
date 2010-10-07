@@ -4,6 +4,10 @@
  *
  * Uses the key-value pair version of the PayPal API.  This is simpler and easier to implement than soap.
  *
+ * PayPal References:
+ * 	- https://www.x.com/community/ppx/wpp
+ * 	- https://www.x.com/docs/DOC-1374
+ *
  * Requrements:
  *  - PHP 5.3+
  *  - cURL (http://www.php.net/manual/en/curl.installation.php)
